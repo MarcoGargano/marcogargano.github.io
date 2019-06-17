@@ -1,6 +1,6 @@
 ---
-title: Hello
+title: Prima pagina MG
 layout: default
 ---
  
-Hello!
+Questo il contenuto della prima pagina
