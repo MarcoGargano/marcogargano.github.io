@@ -1,5 +1,15 @@
-theme: 
-title: Marco Gargano
-description: Personali page
+# Permalinks - Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-baseurl: ""
+# Setup
+title:               Marco G Jekyll
+description:         Personali page JK!
+tagline:             Il primo tema di JK?!
+url:                 http://marcogargano.com
+baseurl:             /marcogargano.github.io/
+
+# Assets - We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _scss
+  style:            :compressed
