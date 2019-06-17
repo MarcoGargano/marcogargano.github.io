@@ -7,7 +7,7 @@ title:               Marco G Jekyll
 description:         Personali page JK!
 tagline:             Il primo tema di JK?!
 url:                 "https://marcogargano.github.io"
-baseurl:             ""
+baseurl:             "/"
 
 # Assets - We specify the directory for Jekyll so we can use @imports.
 sass:
